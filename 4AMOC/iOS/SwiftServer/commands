@@ -1,0 +1,4 @@
+swift package init --type executable
+//Uncomment .Package -> neter github repo link 
+swift package update 
+swift package generate-xcodeproj

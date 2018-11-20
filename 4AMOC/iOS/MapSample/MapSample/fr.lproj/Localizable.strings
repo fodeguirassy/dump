@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  MapSample
+
+  Created by Benoit BRIATTE on 15/11/2017.
+  Copyright © 2017 Digipolitan. All rights reserved.
+*/
+
+"controllers.new_apple_store.title" = "Création d'un  Store";
+"controllers.new_apple_store.title_label" = "Titre*";
+"controllers.new_apple_store.latitude_label" = "Latitude";
+"controllers.new_apple_store.longitude_label" = "Longitude";
+
+"app.vocabulary.error_title" = "Erreur";
+"app.vocabulary.error_form_message" = "Il faut remplir les edittext";
+"app.vocabulary.close" = "Fermer";

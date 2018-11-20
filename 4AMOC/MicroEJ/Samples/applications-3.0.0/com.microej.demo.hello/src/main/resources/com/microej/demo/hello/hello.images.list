@@ -1,0 +1,6 @@
+# Copyright 2016 IS2T. All rights reserved.
+# For demonstration purpose only.
+# IS2T PROPRIETARY. Use is subject to license terms.
+
+com/microej/demo/hello/images/microej.png
+com/microej/demo/hello/images/home.png:ARGB8888

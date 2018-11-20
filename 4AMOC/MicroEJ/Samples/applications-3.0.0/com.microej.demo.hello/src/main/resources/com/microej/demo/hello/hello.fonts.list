@@ -1,0 +1,8 @@
+# Copyright 2008-2016 IS2T. All rights reserved.
+# For demonstration purpose only.
+# IS2T PROPRIETARY. Use is subject to license terms.
+
+# message font
+com/microej/demo/hello/fonts/arabic_light.ejf::4
+com/microej/demo/hello/fonts/chinese_light.ejf::4
+com/microej/demo/hello/fonts/english_light.ejf::4

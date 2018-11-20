@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Application-Id: hello
+Application-Version: 1.0.0
+Application-PrintableName: Hello
+Application-Description: Say "Hello" in many\nlanguages
+Application-Activities: com.microej.demo.hello.HelloActivity
+Application-IconsDirectory: icons
